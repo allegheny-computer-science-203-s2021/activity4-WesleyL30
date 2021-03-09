@@ -2,7 +2,7 @@
 
 ## DUE: by Thursday, March 11 
 
-![Actions Status](../../workflows/build/badge.svg)](../../actions)
+![Actions Status](../../workflows/build/badge.svg)]
 
 ## Introduction
 
